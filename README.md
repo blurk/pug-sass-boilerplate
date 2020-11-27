@@ -1,5 +1,7 @@
 # PUG & SASS BOILERPLATE
 
+![Umaru-chan hugging a cat](cute.gif)
+
 ## Desccription
 
 - A very simple boilerplate of pug & sass.
